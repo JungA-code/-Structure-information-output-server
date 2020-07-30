@@ -1,5 +1,4 @@
 #pragma once
-#include <stdio.h>
 
 typedef struct tag_st { 
 	int num;
